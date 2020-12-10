@@ -9,6 +9,11 @@ body{
  padding: 50px 0 50px 0;
 }
 
+p{
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
 .title>h1{
   margin: 50px 0 50px 0;
 }
@@ -46,11 +51,11 @@ body{
 }
 
 .img-info:hover{
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
-.container{
-  margin-bottom: 50px;
+.img-info{
+  margin-bottom: 150px;
 }
 
 @media only screen and (max-width: 991px){
