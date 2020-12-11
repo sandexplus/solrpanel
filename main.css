@@ -58,6 +58,10 @@ p{
   margin-bottom: 150px;
 }
 
+.img-schem{
+  width: 50%;
+}
+
 .list-group{
   margin-bottom: 30px;
 }
@@ -94,5 +98,9 @@ p{
 
   .img-top-block:hover{
     transform: none;
+  }
+
+  .img-schem{
+    width: 100%;
   }
 }
