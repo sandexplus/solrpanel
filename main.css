@@ -58,6 +58,18 @@ p{
   margin-bottom: 150px;
 }
 
+.list-group{
+  margin-bottom: 30px;
+}
+
+.close{
+  margin-top: 20px;
+}
+
+.collapse{
+  margin-bottom: 20px;
+}
+
 @media only screen and (max-width: 991px){
   .top-info-blocks:first-child{
     border: none;
